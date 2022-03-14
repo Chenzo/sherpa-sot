@@ -82,10 +82,12 @@
         - Thieves Haven Run
 - Legends of the Sea:
     - Legends of the Sea Journals/Easter Eggs
+        - 50 to find
     - Glitterbeard:
         - Journals
         - Vault
-- Sitting
+- Sitting/Sleeping
+    - 13 different places
 - Keg a shark
 - Cannon Rowboat a Kraken or Meg
 - Cannon Rowboat another player's ship
