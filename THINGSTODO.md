@@ -63,8 +63,29 @@
     - Old Coop
     - Flintlock Bert
     - Hepzibah Jones
+- Defeat a Kraken
+- Defeat a Megalodon 
+- Basic Voyages:
+    - OOS:
+        - Ghost Fleet
+        - Captains Skull Bounty
+    - Gold Hoarder:
+        - X marks the spot/Riddle
+        - Gold Vault
+    - Merchant:
+        - Lost Shipment 
+        - Animal Delivery
+        - Cargo Delivery
+        - Commodity Trading
+    - Athena:
+        - Athena Quest
+        - Thieves Haven Run
 - Legends of the Sea:
     - Legends of the Sea Journals/Easter Eggs
     - Glitterbeard:
         - Journals
         - Vault
+- Sitting
+- Keg a shark
+- Cannon Rowboat a Kraken or Meg
+- Cannon Rowboat another player's ship
