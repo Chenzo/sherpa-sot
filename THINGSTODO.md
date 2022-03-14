@@ -80,6 +80,7 @@
     - Athena:
         - Athena Quest
         - Thieves Haven Run
+- Light all 12 Beacons 
 - Legends of the Sea:
     - Legends of the Sea Journals/Easter Eggs
         - 50 to find
@@ -88,6 +89,9 @@
         - Vault
 - Sitting/Sleeping
     - 13 different places
+- Form an Alliance with another crew
+    - Raise a alliance member
 - Keg a shark
 - Cannon Rowboat a Kraken or Meg
 - Cannon Rowboat another player's ship
+- Fish
