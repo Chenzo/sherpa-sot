@@ -1,0 +1,70 @@
+
+- World Events:
+    - Skeleton Fort
+    - Skeleton Fleet
+    - Ashen Winds Vortex
+    - Fort of Fortune
+    - Fort of the Damned
+    - ~~Flameheart Fleet~~
+- Tall Tales:
+    - Maiden Voyage
+    - Shores of Gold:
+        - The Shroudbreaker
+        - The Cursed Rogue
+        - The Legendary Storyteller
+        - Stars of a Thief
+        - Wild Rose
+        - The Art of the Trickster
+        - The Fate of the Morningstar
+        - Shores of Gold
+    - Ashen Age:
+        - The Seabound Soul
+        - Heart of Fire
+    - Pirates Life:
+        - A Pirates Life
+        - The Sunken Pearl
+        - Captains of the Damned
+        - Dark Brethern
+        - Lords of the Sea
+- Siren Shrines
+    - Shrine of the Coral Tomb
+    - Shrine of Ocean's Fortune
+    - Shrine of Ancient Tears 
+    - Shrine of Tribute
+    - Shrine of Hungering
+    - Shrine of Flooded Embrace
+- Siren Treasuries:
+    - Treasury of Sunken Shores
+    - Treasury of the Lost Ancients
+    - Treasury of the Secret Wilds
+- Sea Forts:
+    - Royal Crest Fortress
+    - Imperial Crown Fortress
+    - Ancient Gold Fortress
+    - Old Brinestone Fortress
+    - Traitor's Fate Fortress
+    - Mercy's End Fortress
+- Skeleton Thrones:
+    - Small:
+        - Thieves Haven
+        - Mermaid's Hideaway
+        - Devil's Ridge
+        - Hidden Spring Keep
+        - k-9
+    - Large:
+        - Cannon Cove
+        - Plunder Outpost
+        - Shipwreck Bay
+        - Smuggler's Bay
+        - Marauder's Arch
+- Find Morrow's Crew:
+    - Fetcher Farley
+    - Ruby Carter
+    - Old Coop
+    - Flintlock Bert
+    - Hepzibah Jones
+- Legends of the Sea:
+    - Legends of the Sea Journals/Easter Eggs
+    - Glitterbeard:
+        - Journals
+        - Vault
