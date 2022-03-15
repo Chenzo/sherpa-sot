@@ -95,3 +95,5 @@
 - Cannon Rowboat a Kraken or Meg
 - Cannon Rowboat another player's ship
 - Fish
+- Bury Treasure
+
