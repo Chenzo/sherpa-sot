@@ -9,10 +9,12 @@ export default function Header() {
         <header className={styles.header}>
 
             <div className={styles.container}>
-            <Link href="/"><a> Sherpa Knowledge Repository</a></Link>
+            <h2><Link href="/"><a> Sherpa Knowledge Repository</a></Link></h2>
 
-            <ul>
+            <ul className={styles.headLinks}>
                 <li><Link href="/things-to-do"><a>List of Things to Do</a></Link></li>
+                <li>|</li>
+                <li><Link href="/definition-of-toxic"><a>Definition of Toxic</a></Link></li>
             </ul>
             </div>
 

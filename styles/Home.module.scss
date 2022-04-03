@@ -13,3 +13,13 @@
 .struck {
   text-decoration: line-through;
 }
+
+.toxicList {
+  li span {
+    color: #333;
+    font-weight: 500;
+  }
+  li {
+    margin-bottom: 10px;
+  }
+}
