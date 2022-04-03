@@ -1,8 +1,5 @@
-SOT SHERPAS
+SOT SHERPA KNOWLEDGE REPOSITORY
 
+You likely want to go here: 
 
-ssh-keygen -t rsa -b 4096 -C "$(git config user.email)" -f gh-pages -N ""
-
-
-https://blog.gregrickaby.com/article/nextjs-github-pages
-
+https://chenzo.github.io/sherpa-sot/ 

@@ -28,7 +28,7 @@
         - Lords of the Sea
 - Siren Shrines
     - Shrine of the Coral Tomb
-    - Shrine of Ocean's Fortune
+    - Shrine of Ocean&apos;s Fortune
     - Shrine of Ancient Tears 
     - Shrine of Tribute
     - Shrine of Hungering
@@ -42,22 +42,22 @@
     - Imperial Crown Fortress
     - Ancient Gold Fortress
     - Old Brinestone Fortress
-    - Traitor's Fate Fortress
-    - Mercy's End Fortress
+    - Traitor&apos;s Fate Fortress
+    - Mercy&apos;s End Fortress
 - Skeleton Thrones:
     - Small:
         - Thieves Haven
-        - Mermaid's Hideaway
-        - Devil's Ridge
+        - Mermaid&apos;s Hideaway
+        - Devil&apos;s Ridge
         - Hidden Spring Keep
         - k-9
     - Large:
         - Cannon Cove
         - Plunder Outpost
         - Shipwreck Bay
-        - Smuggler's Bay
-        - Marauder's Arch
-- Find Morrow's Crew:
+        - Smuggler&apos;s Bay
+        - Marauder&apos;s Arch
+- Find Morrow&apos;s Crew:
     - Fetcher Farley
     - Ruby Carter
     - Old Coop
@@ -93,7 +93,7 @@
     - Raise a alliance member
 - Keg a shark
 - Cannon Rowboat a Kraken or Meg
-- Cannon Rowboat another player's ship
+- Cannon Rowboat another player&apos;s ship
 - Fish
 - Bury Treasure
 
