@@ -68,7 +68,7 @@ export default function Home() {
     <li>Siren Shrines
         <ul>
             <li>Shrine of the Coral Tomb</li>
-            <li>Shrine of Ocean's Fortune</li>
+            <li>Shrine of Ocean&apos;s Fortune</li>
             <li>Shrine of Ancient Tears </li>
             <li>Shrine of Tribute</li>
             <li>Shrine of Hungering</li>
@@ -90,8 +90,8 @@ export default function Home() {
         <li>Imperial Crown Fortress</li>
         <li>Ancient Gold Fortress</li>
         <li>Old Brinestone Fortress</li>
-        <li>Traitor's Fate Fortress</li>
-        <li>Mercy's End Fortress</li>
+        <li>Traitor&apos;s Fate Fortress</li>
+        <li>Mercy&apos;s End Fortress</li>
         </ul>
     </li>
     <li>Skeleton Thrones:
@@ -99,8 +99,8 @@ export default function Home() {
             <li>Small:
                 <ul>
                     <li>Thieves Haven</li>
-                    <li>Mermaid's Hideaway</li>
-                    <li>Devil's Ridge</li>
+                    <li>Mermaid&apos;s Hideaway</li>
+                    <li>Devil&apos;s Ridge</li>
                     <li>Hidden Spring Keep</li>
                     <li>k-9</li>
                 </ul>
@@ -110,13 +110,13 @@ export default function Home() {
                     <li>Cannon Cove</li>
                     <li>Plunder Outpost</li>
                     <li>Shipwreck Bay</li>
-                    <li>Smuggler's Bay</li>
-                    <li>Marauder's Arch</li>
+                    <li>Smuggler&apos;s Bay</li>
+                    <li>Marauder&apos;s Arch</li>
                 </ul>
         </li>
         </ul>
     </li>
-    <li>Find Morrow's Crew:
+    <li>Find Morrow&apos;s Crew:
         <ul>
             <li>Fetcher Farley</li>
             <li>Ruby Carter</li>
@@ -185,7 +185,7 @@ export default function Home() {
     </li>
     <li>Keg a shark</li>
     <li>Cannon Rowboat a Kraken or Meg</li>
-    <li>Cannon Rowboat another player's ship</li>
+    <li>Cannon Rowboat another player&apos;s ship</li>
     <li>Fish</li>
     <li>Bury Treasure</li>
 </ul>

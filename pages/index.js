@@ -17,7 +17,7 @@ export default function Home() {
 
       <main className={styles.mainHome}>
         {/* <BodyHeader></BodyHeader> */}
-        This is just a place where we're (I'm?) storing things I think need to exist outside discord
+        This is just a place where we&apos;re (I&apos;m?) storing things I think need to exist outside discord
       </main>
 
       {/* <footer>
