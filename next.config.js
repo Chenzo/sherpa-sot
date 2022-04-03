@@ -5,5 +5,6 @@ module.exports = {
   images: {
     domains: ['github.com', 'chenzorama.com', 'cdn.discordapp.com'],
   },
-  assetPrefix: isProd ? '/sherpa-sot/' : ''
+  assetPrefix: isProd ? '/sherpa-sot/' : '',
+  basePath: isProd ? '/sherpa-sot' : ''
 }
